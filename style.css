@@ -1,0 +1,22 @@
+.body_background {
+    background-image: url("Fruit.png");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    background-color: lightcyan;
+    color:lawngreen;
+    width: 200px;
+}
+
+h3 {
+    background-color: lightcyan;
+    color:lawngreen;
+    width: 400px;
+}
+
+#myCanvas {
+    border: 10px ridge lawngreen;
+    background-color:white;
+}
